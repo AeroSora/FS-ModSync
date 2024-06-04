@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Lua",easy,3,Completed,"Big Red","Big Red: Objective #2","1","18:30:19","18:31:23",
+Bot1,"Lua",easy,3,Active,"Big Red","Big Red: Objective #3","1","18:31:28","N/A",
+Bot11,"roca",hard,8,Pending,"The Extortionist","Zone dead_posylni","1","18:30:22","N/A",
+Bot10,"ocygTTV",hard,1,Active,"Crackhouse Rush","Crackhouse Rush: Objective #1","1","18:30:22","N/A",
+Bot18,"CheapTricK",hard,2,Pending,"North Shack by Big Red","North Shack by Big Red: Objective #1","1","18:30:27","N/A",
+Bot19,"RGB",hard,11,Pending,"Golden Swag","Zone extraction_zone_zibbo","1","18:30:27","N/A",
+Bot16,"anor",hard,17,Active,"The Extortionist","Zone dead_posylni","1","18:30:27","N/A",
+Bot17,"pixiTTV",hard,33,Pending,"Big Red Rush","Big Red Rush: Objective #1","1","18:30:27","N/A",

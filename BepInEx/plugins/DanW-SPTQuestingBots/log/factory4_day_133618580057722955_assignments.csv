@@ -1,0 +1,7 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"IFAKValhalla",normal,12,Failed,"1st Floor Office","1st Floor Office: Objective #1","1","11:07:40","11:09:03",
+Bot2,"M1AKhalifa",hard,7,Failed,"Bad Rep Evidence","Zone locked_office","1","11:07:40","11:09:32",
+Bot3,"TheFourInchKing",easy,14,Failed,"1st Floor Office","1st Floor Office: Objective #2","1","11:07:40","11:08:06",
+Bot7,"IKilledByHape",normal,8,Failed,"Bad Rep Evidence","Zone locked_office","1","11:07:43","11:08:36",
+Bot8,"룰러",normal,3,Failed,"Crates Outside of Gate 3","Crates Outside of Gate 3: Objective #1","1","11:07:43","11:11:01",
+Bot13,"Morbo513",hard,16,Active,"Scout","Zone place_pacemaker_SCOUT_01","1","11:11:03","N/A",

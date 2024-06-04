@@ -1,0 +1,12 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Knocks1",easy,20,Active,"The Extortionist","Zone dead_posylni","1","10:25:03","N/A",
+Bot2,"Fershte",easy,13,Failed,"Pharmacist","Item Carbon case","1","10:25:03","10:25:17",
+Bot2,"Fershte",easy,13,Completed,"Pharmacist","Zone room114","1","10:25:22","10:26:19",
+Bot2,"Fershte",easy,13,Active,"Pharmacist","Zone vaz_feld","1","10:26:24","N/A",
+Bot6,"AskSosisi",normal,27,Pending,"North Shack by Big Red","North Shack by Big Red: Objective #1","1","10:25:06","N/A",
+Bot5,"JFKPeeked",normal,23,Completed,"Big Red Rush","Big Red Rush: Objective #1","1","10:25:06","10:26:59",
+Bot5,"JFKPeeked",normal,23,Active,"Crackhouse","Crackhouse: Objective #7","1","10:27:04","N/A",
+Bot7,"Grim",hard,11,Active,"South Shack by Big Red","South Shack by Big Red: Objective #1","1","10:25:06","N/A",
+Bot14,"CapitatingBunny",normal,24,Failed,"Crackhouse Rush","Crackhouse Rush: Objective #1","1","10:25:08","10:29:59",
+Bot13,"RelfoTTV",normal,37,Completed,"RUAF Checkpoint","RUAF Checkpoint: Objective #1","1","10:25:08","10:25:21",
+Bot13,"RelfoTTV",normal,37,Failed,"Crackhouse","Crackhouse: Objective #7","1","10:25:27","10:28:52",
